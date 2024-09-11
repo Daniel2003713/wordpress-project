@@ -5,3 +5,7 @@ Description: Bootstrap Blog template converted to WordPress
 Version: 1.0
 Tags: bootstrap
 */
+
+.name {
+    color: red;
+}
